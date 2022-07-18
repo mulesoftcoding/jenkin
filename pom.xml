@@ -36,7 +36,7 @@
 					<cloudHubDeployment>
 						<username>shrutis_00</username>
 						<environment>Sandbox</environment>
-						<applicationName>jenkinapp</applicationName>
+						<applicationName>jenkin-app</applicationName>
 						<workerType>Micro</workerType>
 						<workers>1</workers>
 						<password>SHrutis@123</password>
