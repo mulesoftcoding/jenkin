@@ -29,6 +29,18 @@
 				<artifactId>mule-maven-plugin</artifactId>
 				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
+				<configuration>
+					<cloudHubDeployment>
+						<username>shrutis_00</username>
+						<environment>Sandbox</environment>
+						<applicationName>git-jen-assignment</applicationName>
+						<workerType>Micro</workerType>
+						<workers>1</workers>
+						<password>SHrutis@123</password>
+						<muleVersion>4.4.0</muleVersion>
+						<objectStoreV2>true</objectStoreV2>
+					</cloudHubDeployment>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>
