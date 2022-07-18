@@ -33,7 +33,7 @@
 					<cloudHubDeployment>
 						<username>shrutis_00</username>
 						<environment>Sandbox</environment>
-						<applicationName>git-jen-assignment</applicationName>
+						<applicationName>jenkin</applicationName>
 						<workerType>Micro</workerType>
 						<workers>1</workers>
 						<password>SHrutis@123</password>
